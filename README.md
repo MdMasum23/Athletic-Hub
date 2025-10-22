@@ -5,16 +5,6 @@ Athletic Hub is an **Athletic Event Booking Platform** designed to connect athle
 
 ---
 
-## 📸 Screenshot  
-![Athletic Hub Screenshot](./src/assets/Screenshot%202025-08-11%20015116.png) 
-
----
-
-## 🌐 Live URL  
-[Visit Athletic Hub Live Site](https://a11-athletic-hub-platform.web.app/)
-
----
-
 ## 🛠 Technologies Used
 - React.js  
 - Node.js & Express  
